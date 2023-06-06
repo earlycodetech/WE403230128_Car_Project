@@ -1,0 +1,8 @@
+.active{
+    background-color: red !important;
+}
+
+.navbar .active{
+    background-color: transparent !important;
+    border-bottom: 2px solid red;
+}
